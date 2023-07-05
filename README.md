@@ -28,4 +28,8 @@ Apple cuenta con tienda oficial en Mercado Libre mientras que Hiraoka y Falabell
 - Anchante Fernandez, Marcello
 - Batalla Flores, Stephano
 
+## Presentación
+
+[Enlace a Google Slides](https://docs.google.com/presentation/d/1mhZQPoIRSzXBxqDYwUWtNEKuesK5LV1nV8Wmwlcr9u8/edit?usp=sharing)
+
 
