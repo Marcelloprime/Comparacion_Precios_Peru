@@ -1,8 +1,7 @@
-# Comparación de precios de iPhones en Perú
+# ScrapiPhone Report (Actualmente ya no funciona)
 
-Utilizando técnicas de web scraping, buscamos celulares iPhone's según la [Tienda Oficial de Perú](https://www.apple.com/la/iphone/buy/pe/).
+Proyecto enfocado en el uso de técnicas de Web Scraping para obtener datos como características y precios de los celulares iPhone's. Genera un reporte PDF, el cual se envía por correo electrónico para poder conocer la mejor opción al comprar un celular en estas tiendas.
 
-Nos mostró tiendas como Ripley, Falabella, Mercado Libre, Movistar y otros.
 Para este proyecto, se optó por seleccionar Falabella, Hiraoka y Mercado Libre.
 
 Para todos los casos, se optó por filtrar solo productos vendidos en tienda de manera oficial, es decir, no se ha incluido terceros o celulares de segunda mano.
@@ -23,6 +22,7 @@ Apple cuenta con tienda oficial en Mercado Libre mientras que Hiraoka y Falabell
 - Para ejecutar el proyecto, se debe instalar el archivo ```wkhtmltox-0.12.6-1.msvc2015-win64.exe``` y los paquetes indicados en las primeras lineas del código.
 - Utilizar la versión más reciente de Python
 - Usar Jupyter
+
 ## Coders
 
 - Anchante Fernandez, Marcello
